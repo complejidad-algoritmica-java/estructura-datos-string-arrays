@@ -1,7 +1,6 @@
 package org.angelfg.dosApuntadores;
 
 import java.util.Arrays;
-import java.util.UUID;
 
 /**
  * Dado un arreglo de números enteros ordenados en orden ascendente,
